@@ -1,5 +1,6 @@
 <template>
   <HelloWorld msg="Welcome OESB 2023"/>
+  <HelloWorld msg="Welcome OESB 2023"/>
   <TestHello msg="Welcome OESB 2023"/>
 </template>
 
